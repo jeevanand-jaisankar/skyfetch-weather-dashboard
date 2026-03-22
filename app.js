@@ -47,3 +47,4 @@ function displayWeather(data) {
 
 // Call the function when page loads
 getWeather('London');
+// You can change 'London' to any city you want to fetch the weather for
