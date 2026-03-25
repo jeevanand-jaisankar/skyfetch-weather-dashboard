@@ -30,7 +30,7 @@ A beautiful, interactive weather dashboard that provides real-time weather data 
 - Event Handling
 - Error Handling
 - localStorage API
-- Responsive Web Design
+
 
 ## 🚀 Live Demo
 
